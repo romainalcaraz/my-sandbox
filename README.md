@@ -2,19 +2,19 @@
 
 ## Description
 
-**My Sandbox** est un projet où je teste diverses fonctionnalités, expérimente de nouvelles technologies et effectue des démonstrations de concepts. Ce projet sert de terrain d'essai pour différentes idées et approches en programmation. Si vous souhaitez voir mes expérimentations ou contribuer à mes tests, vous êtes au bon endroit !
+**My Sandbox** is a project where I test various features, experiment with new technologies, and demonstrate different programming concepts. This project serves as a testing ground for different ideas and approaches. If you'd like to see my experiments or contribute to my tests, you're in the right place!
 
 ## Installation
 
-### Prérequis
+### Prerequisites
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+Before you begin, ensure that you have the following installed on your machine:
 - [Git](https://git-scm.com/downloads)
-- Un éditeur de texte comme [Visual Studio Code](https://code.visualstudio.com/)
+- A text editor like [Visual Studio Code](https://code.visualstudio.com/)
 
-### Cloner le dépôt
+### Clone the repository
 
-Clonez le dépôt sur votre machine locale en utilisant la commande suivante :
+Clone the repository to your local machine using the following command:
 
 ```bash
 git clone git@github.com:romainalcaraz/my-sandbox.git
